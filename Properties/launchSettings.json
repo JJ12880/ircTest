@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ircTEST": {
+      "commandName": "Project",
+      "commandLineArgs": "4200"
+    }
+  }
+}
